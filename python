@@ -1,0 +1,10 @@
+
+n=(input("enter the name:"))
+a=int(input("enter the age"))
+b=100+a
+print(b)
+if(a>=18):
+    print("the student is eligible to vote")
+else:
+    print("the student is not eligible to vote")
+
